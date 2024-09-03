@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Asmi1108
-- 👀 I’m interested in web design and development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on mini projects
+- 👀 I’m interested in web design!
+- 🌱 I’m currently expanding my knowledge in Python
 - 😄 Pronouns: She/Her
 
 
