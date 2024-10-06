@@ -14,7 +14,7 @@
 - Coding challenges, problem-solving, and project ideas.
 - My experience with web development and learning new frameworks.
 
-## 📫 How to reach me:
+## 📫 Reach me here!:
 - [LinkedIn] www.linkedin.com/in/asmi-s-9b0129308
 - Email: asmisaner08@gmail.com
 
