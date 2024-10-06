@@ -1,6 +1,6 @@
 # Hello! I'm Asmi 👋
 
-**Welcome to my GitHub profile!** I'm a passionate +1 student with a love for coding, exploring new technologies, and working on innovative projects. Check out some of my work below!
+**Welcome to my GitHub profile!** I'm a passionate +1 student with love for coding, exploring new technologies, and working on innovative projects. 
 
 ##  currently working on:
 - Coding projects to challenge my skills and push my boundaries.
