@@ -19,7 +19,7 @@
 - Email: asmisaner08@gmail.com
 
 ## 💻 Languages and Tools:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Asmi1108=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmi1108&layout=compact&theme=radical)
 
 
 <!---
