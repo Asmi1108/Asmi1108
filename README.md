@@ -15,7 +15,7 @@
 - My experience with web development and learning new frameworks.
 
 ## 📫 Reach me here!:
-- [LinkedIn] www.linkedin.com/in/asmi-s-9b0129308
+- [LinkedIn](www.linkedin.com/in/asmi-s-9b0129308)
 - Email: asmisaner08@gmail.com
 
 ## 💻 Languages and Tools:
