@@ -21,7 +21,7 @@
 ## 💻 Languages and Tools:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmi1108&layout=compact&theme=radical)
 
-
+-[![](https://visitcount.itsvg.in/api?id=Asmi1108&label=Profile%20Views&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
 <!---
 Asmi1108/Asmi1108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
