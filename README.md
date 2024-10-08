@@ -16,7 +16,7 @@
 
 ## 📫 Reach me here!:
 - [LinkedIn](www.linkedin.com/in/asmi-s-9b0129308)
-- Email: asmisaner08@gmail.com
+- [Email](asmisaner08@gmail.com)
 
 ## 💻 Languages and Tools:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmi1108&layout=compact&theme=radical)
