@@ -18,8 +18,9 @@
 - [LinkedIn](www.linkedin.com/in/asmi-s-9b0129308)
 - [Email](asmisaner08@gmail.com)
 
-## 💻 Languages and Tools:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmi1108&layout=compact&theme=radical)
+## 💻
+[Stats](https://github-readme-stats.vercel.app/api?username=Asmi1108&theme=merko&show_icons=true&hide_border=false&count_private=true)
+
 
 -[![](https://visitcount.itsvg.in/api?id=Asmi1108&label=Profile%20Views&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
 <!---
