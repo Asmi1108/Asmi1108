@@ -19,7 +19,7 @@
 - [Email](asmisaner08@gmail.com)
 
 ## 💻
-https://github-readme-stats.vercel.app/api?username=Asmi1108&theme=merko&show_icons=true&hide_border=false&count_private=true
+![Asmi1108's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asmi1108&theme=merko&hide_border=false)
 
 
 -[![](https://visitcount.itsvg.in/api?id=Asmi1108&label=Profile%20Views&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
