@@ -1,12 +1,13 @@
 # Hello! I'm Asmi 👋
 
-**Welcome to my GitHub profile!** I'm a passionate +1 student with love for coding, exploring new technologies, and working on innovative projects. 
+**Welcome to my GitHub profile!**
+I'm a passionate +1 student with love for coding, exploring new technologies, and working on innovative projects. 
 
-##  currently working on:
+## 🎯 Currently working on:
 - Coding projects to challenge my skills and push my boundaries.
 - Exploring new ideas in web development and programming.
 
-## 🌱 currently learning:
+## 🌱 Currently learning:
 - Brushing up on my **javascript** knowledge
 - Improving my understanding of **Git** for version control and collaboration.
 
@@ -25,6 +26,7 @@
 -![Asmi1108's Stats](https://github-readme-stats.vercel.app/api?username=Asmi1108&theme=merko&show_icons=true&hide_border=false&count_private=true)
 
 -[![](https://visitcount.itsvg.in/api?id=Asmi1108&label=Profile%20Views&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
 <!---
 Asmi1108/Asmi1108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
