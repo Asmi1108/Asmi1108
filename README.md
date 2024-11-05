@@ -1,11 +1,12 @@
 # Hello! I'm Asmi 👋
 
 **Welcome to my GitHub profile!**
+
 I'm a passionate +1 student with love for coding, exploring new technologies, and working on innovative projects. 
 
 ## 🎯 Currently working on:
-- Coding projects to challenge my skills and push my boundaries.
-- Exploring new ideas in web development and programming.
+- Coding projects to push my boundaries.
+- Exploring new ideas in web development.
 
 ## 🌱 Currently learning:
 - Brushing up on my **javascript** knowledge
