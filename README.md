@@ -21,10 +21,9 @@ I'm a passionate +1 student with love for coding, exploring new technologies, an
 - [Email](asmisaner08@gmail.com)
 
 ## 💻
-
+---
 -![Asmi1108's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asmi1108&theme=merko&hide_border=false)
-
-soolol
+---
 -[![Streak](https://nirzak-streak-stats.vercel.app?user=Asmi1108&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 -![Asmi1108's Stats](https://github-readme-stats.vercel.app/api?username=Asmi1108&theme=merko&show_icons=true&hide_border=false&count_private=true)
