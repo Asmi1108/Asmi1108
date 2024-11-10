@@ -20,9 +20,7 @@ I'm a passionate +1 student with love for coding, exploring new technologies, an
 - [LinkedIn](www.linkedin.com/in/asmi-s-9b0129308)
 - [Email](asmisaner08@gmail.com)
 
-## 💻
-
-## GSSOC(24) Badges 🪶
+GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -34,6 +32,7 @@ I'm a passionate +1 student with love for coding, exploring new technologies, an
   </a>
 </div>
 
+## 💻
 -[![Streak](https://nirzak-streak-stats.vercel.app?user=Asmi1108&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 
